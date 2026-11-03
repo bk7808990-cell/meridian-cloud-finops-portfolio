@@ -20,6 +20,3 @@ Unlike academic projects that load massive raw datasets directly into BI tools, 
 * **Finding:** The IT action plan provides a strict "Kill List" for Zombie servers (CPU < 5%) and a procurement target for RI contracts.
 * **Governance & Risk Mitigation:** The most common forecasting error in FinOps is "double-counting" savings (e.g., buying long-term discounts on servers that will be terminated). This model mathematically isolates the $3.1M Zombie server waste *before* applying the 28% commitment discount to the remaining $26.4M healthy compute base, guaranteeing a highly conservative and accurate ROI projection.
 
-## 3. Dashboard Artifacts
-* The live `.pbix` file is available in the `05_dashboard/` directory.
-* High-resolution screenshots of all 3 executive pages can be found in the `power Bi/screenshot directory for immediate review.
